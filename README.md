@@ -32,7 +32,6 @@ Welcome to the Phasmophobia Save File Editor, a tool that allows you to decrypt 
 1. Replace the original "SaveFile.txt" in the Phasmophobia folder:
 `\Users\(YourUsername)\AppData\LocalLow\Kinetic Games\Phasmophobia`
 
-### Disclaimer
+## Disclaimer
 - This Save File Editor is provided as-is, and any modifications made to your save file are at your own risk. Backup your save files regularly.
 - Always keep a backup of your original save file before making any modifications.
-
